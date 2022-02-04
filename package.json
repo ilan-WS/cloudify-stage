@@ -137,7 +137,7 @@
     "babel-eslint": "^10.0.3",
     "babel-jest": "^26.3.0",
     "babel-loader": "^8.0.6",
-    "chokidar": "^2.1.2",
+    "chokidar": "^3.0.0",
     "compression-webpack-plugin": "^6.1.1",
     "copy-webpack-plugin": "^6.3.2",
     "cross-env": "^7.0.3",
